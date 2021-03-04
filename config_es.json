@@ -1,0 +1,222 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true,
+      "image": "assets/images/logo.png"
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "size": 1.4,
+      "radius": 50.0,
+      "items": [
+        {
+          "category": 121,
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/Chill-In-The-House.png",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 113,
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/COMODA-Y-FELIZ.png",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 125,
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/SUMMER-2021.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 116,
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/OTONO-INVIERNO.png",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ],
+          "originalColor": true
+        }
+      ]
+    },
+
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 2.0,
+      "items": [
+        {
+          "category": 121,
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/nueva-coleccion.png",
+          "padding": 15.0
+        },
+        {
+          "category": 113,
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/como-y-feliz.png",
+          "padding": 15.0
+        },
+        {
+          "category": 125,
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/summer.png",
+          "padding": 15.0
+        },
+        {
+          "category": 125,
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/summer.png",
+          "padding": 15.0
+        }
+      ]
+    },
+
+
+    {
+      "layout": "bannerImage",
+      "isSlider": false,
+      "items":[
+        {
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/CHIL.png",
+          "padding": 5.0,
+          "category": 121
+        },
+        {
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/COMODA-1.png",
+          "padding": 5.0,
+          "category": 113
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": false,
+      "items": [
+        {
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/SUMMER-2.png",
+          "padding": 5.0,
+          "category": 125
+        },
+        {
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/OTONO.png",
+          "padding": 5.0,
+          "category": 116
+        }
+      ]
+    },
+
+    {
+      "name": "Vista reciente",
+      "layout": "recentView"
+    }
+
+  ],
+  "Setting": {
+    "MainColor": "#461220",
+    "ProductListLayout": "list",
+    "StickyHeader": false,
+    "ShowChat": true
+  },
+  "TabBar": [{
+    "layout": "home",
+    "icon": "assets/icons/tabs/icon-home.png"
+  },
+
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "subCategories",
+      "icon": "assets/icons/tabs/bolsa-de-compras.png",
+      "pos": 300,
+      "categories": [
+        "121",
+        "113",
+        "125",
+        "116"
+      ]
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png"
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "showChat": true,
+      "background": "https://alohastore.com.pe/wp-content/uploads/2021/03/profile-portada.png",
+      "settings": [
+        "wishlist",
+        "order",
+        "notifications",
+        "darkTheme"
+
+
+      ]
+    }
+  ],
+  "searchSuggestion": [
+    "Aquí algunas sugerencias:",
+    "Zapatillas"
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items":[
+      {
+        "type": "login",
+        "show": true
+      },
+
+      {
+        "type": "cart",
+        "show": true
+      },
+
+
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+
+  },
+  "OnBoarding": {
+    "data": [
+      {
+        "title": "Bienvenido a Aloha Store",
+        "image": "assets/images/fogg-delivery-1.png",
+        "desc": "Lo mejor en calzados lo encuentras aquí.",
+        "background": "#FFF3F2"
+      },
+      {
+        "title": "Cómoda y Felíz",
+        "image": "assets/images/fogg-uploading-1.png",
+        "desc": "Compra de manera segura con tarjeta de crédito/débito",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "¡EMPECEMOS!",
+        "image": "fogg-order-completed.png",
+        "desc": "No esperemos más,¡Vamos!",
+        "background": "#F9F2FF"
+      }
+    ]
+  }
+
+}
