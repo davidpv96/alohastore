@@ -117,10 +117,10 @@
     {
       "name": "Vista reciente",
       "layout": "recentView"
-    },
+    }
     
 
-  ]
+  ],
   "Setting": {
     "MainColor": "#461220",
     "ProductListLayout": "list",
