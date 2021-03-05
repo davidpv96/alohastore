@@ -118,12 +118,6 @@
       "name": "Vista reciente",
       "layout": "recentView"
     },
-     {
-      "name": "Cómoda y Felíz con Aloha Store",
-      "layout": "staggered",
-       "isSnapping": false,
-       "category": 24
-    }
     
 
   ],
@@ -219,6 +213,11 @@
         "background": "#F9F2FF"
       }
     ]
-  }
+  },
+   "verticalLayout": {
+    key: "ldskg5cfci",
+    layout" "menu",
+    name:""
+    }
 
 }
