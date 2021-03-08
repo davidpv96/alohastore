@@ -15,7 +15,7 @@
       "radius": 50.0,
       "items": [
         {
-          "category": 116,
+          "category": 128,
           "image": "https://i.ibb.co/b77z4VR/Chill-In-The-House.png",
           "colors": [
             "#3CC2BF",
@@ -63,7 +63,7 @@
       "radius": 2.0,
       "items": [
         {
-          "category": 121,
+          "category": 128,
           "image": "https://i.ibb.co/Zf3pQ1G/nueva-coleccion.png",
           "padding": 15.0
         },
@@ -88,7 +88,7 @@
         {
           "image": "https://i.ibb.co/k6m650m/CHIL.png",
           "padding": 5.0,
-          "category": 121
+          "category": 128
         },
         {
           "image": "https://i.ibb.co/XY0nMcV/COMODA.png",
