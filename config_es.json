@@ -79,14 +79,7 @@
         }
       ]
     },
-       {
-      "name": "Productos Exclusivos 🎁",
-      "image": "https://trello-attachments.s3.amazonaws.com/5f8fe6093cd3ef24d9ede5f5/990x316/2bd8b7540812cdbc254129ff35667d93/sale.gif",
-      "layout": "saleOff",
-      "category": 129,
-      "isSnapping": true
-    },
-
+      
 
     {
       "layout": "bannerImage",
@@ -119,6 +112,13 @@
           "category": 116
         }
       ]
+    },
+     {
+      "name": "Productos Exclusivos 🎁",
+      "image": "https://trello-attachments.s3.amazonaws.com/5f8fe6093cd3ef24d9ede5f5/990x316/2bd8b7540812cdbc254129ff35667d93/sale.gif",
+      "layout": "saleOff",
+      "category": 129,
+      "isSnapping": true
     },
 
     {
