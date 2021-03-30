@@ -15,8 +15,8 @@
       "radius": 50.0,
       "items": [
         {
-          "category": 128,
-          "image": "https://i.ibb.co/5hzpYqD/CHILL-IN-THE-HOUSE3.png",
+          "category": 121,
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/Chill-In-The-House.png",
           "colors": [
             "#3CC2BF",
             "#3CC2BF"
@@ -25,7 +25,7 @@
         },
         {
           "category": 113,
-          "image": "https://i.ibb.co/7yCRhkH/COMODA-Y-FELIZ.png",
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/COMODA-Y-FELIZ.png",
           "colors": [
             "#3E6AB5",
             "#3E6AB5"
@@ -34,7 +34,7 @@
         },
         {
           "category": 125,
-          "image": "https://i.ibb.co/bmRz88N/SUMMER-2021.png",
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/SUMMER-2021.png",
           "colors": [
             "#53A2CC",
             "#53A2CC"
@@ -43,7 +43,7 @@
         },
         {
           "category": 116,
-          "image": "https://i.ibb.co/z4zxX7N/OTO-O-INVIERNO.png",
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/OTONO-INVIERNO.png",
           "colors": [
             "#53688A",
             "#53688A"
@@ -63,35 +63,40 @@
       "radius": 2.0,
       "items": [
         {
-          "category": 128,
-          "image": "https://i.ibb.co/Zf3pQ1G/nueva-coleccion.png",
+          "category": 121,
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/nueva-coleccion.png",
           "padding": 15.0
         },
         {
           "category": 113,
-          "image": "https://i.ibb.co/kJN9myX/COMODA.png",
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/como-y-feliz.png",
           "padding": 15.0
         },
         {
           "category": 125,
-          "image": "https://i.ibb.co/8b1s1bq/SUMMER.png",
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/summer.png",
+          "padding": 15.0
+        },
+        {
+          "category": 125,
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/summer.png",
           "padding": 15.0
         }
       ]
     },
-      
+
 
     {
       "layout": "bannerImage",
       "isSlider": false,
       "items":[
         {
-          "image": "https://i.ibb.co/k6m650m/CHIL.png",
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/CHIL.png",
           "padding": 5.0,
-          "category": 128
+          "category": 121
         },
         {
-          "image": "https://i.ibb.co/XY0nMcV/COMODA.png",
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/COMODA.png",
           "padding": 5.0,
           "category": 113
         }
@@ -102,22 +107,28 @@
       "isSlider": false,
       "items": [
         {
-          "image": "https://i.ibb.co/4fPmfxN/SUMMER.png",
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/SUMMER-1.png",
           "padding": 5.0,
           "category": 125
         },
         {
-          "image": "https://i.ibb.co/MRbL5bp/OTO-O.png",
+          "image": "https://alohastore.com.pe/wp-content/uploads/2021/03/OTONO.png",
           "padding": 5.0,
           "category": 116
         }
       ]
     },
+
     {
       "name": "Vista reciente",
       "layout": "recentView"
+    },
+    {
+      "name": "Cómoda y Felíz con Aloha Store",
+      "layout": "staggered",
+      "isSnapping": false,
+      "category": 24
     }
-    
 
   ],
   "Setting": {
@@ -191,8 +202,6 @@
     ]
 
   },
-   
-  
   "OnBoarding": {
     "data": [
       {
@@ -214,12 +223,6 @@
         "background": "#F9F2FF"
       }
     ]
-  },
-   "VerticalLayout": {
-    "key": "ldskg5cfci",
-    "layout": "menu",
-    "name":""
-    },
-
+  }
 
 }
