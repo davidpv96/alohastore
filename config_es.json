@@ -213,6 +213,11 @@
         "background": "#F9F2FF"
       }
     ]
-  }
+  },
+   "VerticalLayout": {
+    "key": "ldskg5cfci",
+    "layout": "menu",
+    "name":""
+    }
 
 }
