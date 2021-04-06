@@ -79,15 +79,7 @@
         }
       ]
     },
-      {
-      "name": "Exclusivos de la App en oferta! 🎁",
-      "image": "",
-      "layout": "saleOff",
-      "category": 129,
-      "isSnapping": true
-    },
-
-
+     
     {
       "layout": "bannerImage",
       "isSlider": false,
