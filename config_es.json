@@ -141,10 +141,12 @@
       "icon": "assets/icons/tabs/bolsa-de-compras.png",
       "pos": 300,
       "categories": [
-        "121",
+        "129",
+        "128",
         "113",
         "125",
-        "116"
+        "116",
+        "121"
       ]
     },
     {
