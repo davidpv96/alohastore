@@ -62,11 +62,7 @@
       "showBackGround": true,
       "radius": 2.0,
       "items": [
-         
-        {
-          "image": "https://i.ibb.co/CsYskYG/APP-CORREGIDO.png",
-          "padding": 15.0
-        },       
+              
         {
           "category": 128,
           "image": "https://i.ibb.co/Zf3pQ1G/nueva-coleccion.png",
