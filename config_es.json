@@ -32,15 +32,7 @@
           ],
           "originalColor": true
         },
-        {
-          "category": 125,
-          "image": "https://i.ibb.co/bmRz88N/SUMMER-2021.png",
-          "colors": [
-            "#53A2CC",
-            "#53A2CC"
-          ],
-          "originalColor": true
-        },
+       
         {
           "category": 116,
           "image": "https://i.ibb.co/z4zxX7N/OTO-O-INVIERNO.png",
@@ -81,11 +73,6 @@
           "category": 113,
           "image": "https://i.ibb.co/kJN9myX/COMODA.png",
           "padding": 15.0
-        },
-        {
-          "category": 125,
-          "image": "https://i.ibb.co/8b1s1bq/SUMMER.png",
-          "padding": 15.0
         }
       ]
     },
@@ -110,11 +97,6 @@
       "layout": "bannerImage",
       "isSlider": false,
       "items": [
-        {
-          "image": "https://i.ibb.co/4fPmfxN/SUMMER.png",
-          "padding": 5.0,
-          "category": 125
-        },
         {
           "image": "https://i.ibb.co/MRbL5bp/OTO-O.png",
           "padding": 5.0,
