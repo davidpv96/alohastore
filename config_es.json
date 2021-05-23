@@ -85,11 +85,6 @@
           "image": "https://i.ibb.co/k6m650m/CHIL.png",
           "padding": 5.0,
           "category": 128
-        },
-        {
-          "image": "https://i.ibb.co/XY0nMcV/COMODA.png",
-          "padding": 5.0,
-          "category": 113
         }
       ]
     },
@@ -101,6 +96,11 @@
           "image": "https://i.ibb.co/MRbL5bp/OTO-O.png",
           "padding": 5.0,
           "category": 116
+        },
+            {
+          "image": "https://i.ibb.co/XY0nMcV/COMODA.png",
+          "padding": 5.0,
+          "category": 113
         }
       ]
     },
