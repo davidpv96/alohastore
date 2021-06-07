@@ -95,6 +95,15 @@
           "image": "https://i.ibb.co/k6m650m/CHIL.png",
           "padding": 5.0,
           "category": 128
+        },
+          {
+          "category": 128,
+          "image": "https://i.ibb.co/5hzpYqD/CHILL-IN-THE-HOUSE3.png",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": true
         }
       ]
     },
