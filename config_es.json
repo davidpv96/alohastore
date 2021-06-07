@@ -11,9 +11,27 @@
       "layout": "category",
       "type": "icon",
       "wrap": false,
-      "size": 1.9,
+      "size": 1.4,
       "radius": 50.0,
       "items": [
+          {
+          "category": 128,
+          "image": "https://i.ibb.co/5hzpYqD/CHILL-IN-THE-HOUSE3.png",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": true
+        },
+          {
+          "category": 128,
+          "image": "https://i.ibb.co/5hzpYqD/CHILL-IN-THE-HOUSE3.png",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": true
+        },
         {
           "category": 128,
           "image": "https://i.ibb.co/5hzpYqD/CHILL-IN-THE-HOUSE3.png",
