@@ -75,6 +75,11 @@
       
          {
           "category": 128,
+          "image": "https://i.ibb.co/GQKg66Y/APP-2.png",
+          "padding": 15.0
+        },
+         {
+          "category": 128,
           "image": "https://i.ibb.co/Zf3pQ1G/nueva-coleccion.png",
           "padding": 15.0
         },
