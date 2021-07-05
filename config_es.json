@@ -95,6 +95,13 @@
         }
       ]
     },
+        {
+         "name":"Nuevos Modelos!",
+         "layout": "threeColumn",
+        " category": 150,
+        " isSnapping":true
+         
+      }
     
      
     {
