@@ -89,13 +89,7 @@
       "showBackGround": true,
       "radius": 2.0,
       "items": [
-      
-          { 
-         
-          "image": "https://i.ibb.co/RgSjCLN/APP.png",
-          "padding": 15.0
-        },
-      
+           
         {
           "category": 147,
           "image": "https://i.ibb.co/wJB0smS/APP.png",
