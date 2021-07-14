@@ -62,6 +62,23 @@
         }
       ]
     },
+      {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": false,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 2.0,
+      "items": [
+      
+          { 
+          "category": 151,
+          "image": "https://i.ibb.co/0BsL3ST/APP-1.png",
+          "padding": 15.0
+        }
+      ]
+    },
  
 
     {
