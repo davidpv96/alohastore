@@ -62,23 +62,7 @@
         }
       ]
     },
-      {
-      "layout": "bannerImage",
-      "isSlider": true,
-      "autoPlay": false,
-      "showNumber": false,
-      "design": "default",
-      "showBackGround": true,
-      "radius": 2.0,
-      "items": [
-      
-          { 
-
-          "image": "https://i.ibb.co/XSSszHJ/app-2.png",
-          "padding": 15.0
-        }
-      ]
-    },
+     
    
  
 
