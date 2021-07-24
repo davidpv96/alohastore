@@ -75,7 +75,8 @@
           { 
          
           "image": "https://i.ibb.co/b5xYgvw/APP-3.png",
-          "padding": 15.0
+          "padding": 15.0,
+          "category": 150
         }
       ]
     },
