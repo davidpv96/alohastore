@@ -11,8 +11,8 @@
       "layout": "category",
       "type": "icon",
       "wrap": false,
-      "size": 1.8,
-      "radius": 80.0,
+      "size": 2.0,
+      "radius": 40.0,
       "items": [
           {
           "category": 128,
