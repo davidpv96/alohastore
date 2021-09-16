@@ -25,28 +25,7 @@
           "category": 150
         }
       ]
-    },
-   
- 
-
-    {
-      "layout": "bannerImage",
-      "isSlider": true,
-      "autoPlay": true,
-      "showNumber": false,
-      "design": "default",
-      "showBackGround": true,
-      "radius": 2.0,
-      "items": [
-           
-         {
-          "category": 128,
-          "image": "https://i.ibb.co/jJWTM4J/APP.png",
-          "padding": 15.0
-        }
-      ]
-    },
-     
+    },    
   
 
     {
