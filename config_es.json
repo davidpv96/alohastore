@@ -11,27 +11,18 @@
       "layout": "category",
       "type": "icon",
       "wrap": false,
-      "size": 2.0,
+      "size": 1.7,
       "radius": 40.0,
       "items": [
           {
-          "category": 128,
+          "category": 153,
           "image": "https://i.ibb.co/5hzpYqD/CHILL-IN-THE-HOUSE3.png",
           "colors": [
             "#3CC2BF",
             "#3CC2BF"
           ],
           "originalColor": true
-        },
-          {
-          "category": 128,
-          "image": "https://i.ibb.co/5hzpYqD/CHILL-IN-THE-HOUSE3.png",
-          "colors": [
-            "#3CC2BF",
-            "#3CC2BF"
-          ],
-          "originalColor": true
-        } 
+        }
         
       ]
     },
@@ -66,12 +57,7 @@
       "radius": 2.0,
       "items": [
            
-        {
-          "category": 147,
-          "image": "https://i.ibb.co/wJB0smS/APP.png",
-          "padding": 15.0
-        },
-          {
+         {
           "category": 128,
           "image": "https://i.ibb.co/jJWTM4J/APP.png",
           "padding": 15.0
@@ -79,44 +65,7 @@
       ]
     },
      
-    
-     
-    {
-      "layout": "bannerImage",
-      "isSlider": false,
-      "items":[
-        {
-          "image": "https://i.ibb.co/mXPBqWT/P1.png",
-          "padding": 5.0,
-          "category": 147
-        },
-          {
-          "category": 128,
-          "image": "https://i.ibb.co/k6m650m/CHIL.png",
-          "colors": [
-            "#3CC2BF",
-            "#3CC2BF"
-          ],
-          "originalColor": true
-        }
-      ]
-    },
-    {
-      "layout": "bannerImage",
-      "isSlider": false,
-      "items": [
-        {
-          "image": "https://i.ibb.co/MRbL5bp/OTO-O.png",
-          "padding": 5.0,
-          "category": 116
-        },
-            {
-          "image": "https://i.ibb.co/XY0nMcV/COMODA.png",
-          "padding": 5.0,
-          "category": 113
-        }
-      ]
-    },
+  
 
     {
       "name": "Vista reciente",
@@ -146,16 +95,7 @@
       "icon": "assets/icons/tabs/bolsa-de-compras.png",
       "pos": 300,
       "categories": [
-        "129",
-        "147",
-        "148",
-        "128",
-        "113",
-        "125",
-        "116",
-        "121",
-         "150",
-         "152"
+       "153"
          
       ]
     },
