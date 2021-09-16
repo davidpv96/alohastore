@@ -7,25 +7,7 @@
       "showLogo": true,
       "image": "assets/images/logo.png"
     },
-    {
-      "layout": "category",
-      "type": "icon",
-      "wrap": false,
-      "size": 1.7,
-      "radius": 40.0,
-      "items": [
-          {
-          "category": 153,
-          "image": "https://i.ibb.co/5hzpYqD/CHILL-IN-THE-HOUSE3.png",
-          "colors": [
-            "#3CC2BF",
-            "#3CC2BF"
-          ],
-          "originalColor": true
-        }
-        
-      ]
-    },
+
      {
       "layout": "bannerImage",
       "isSlider": true,
