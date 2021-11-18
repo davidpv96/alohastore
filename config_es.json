@@ -60,7 +60,8 @@
       "icon": "assets/icons/tabs/bolsa-de-compras.png",
       "pos": 300,
       "categories": [
-       "153"
+       "153",
+        "155"
          
       ]
     },
