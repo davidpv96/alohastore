@@ -17,12 +17,7 @@
       "showBackGround": true,
       "radius": 2.0,
       "items": [
-        { 
-         
-          "image": "https://i.ibb.co/2gVxMnV/App.png",
-          "padding": 15.0,
-            "category": 226
-        },
+       
         { 
          
           "image": "https://i.ibb.co/stS27BN/PORTADA-APP-1.png",
@@ -66,7 +61,7 @@
       "icon": "assets/icons/tabs/bolsa-de-compras.png",
       "pos": 300,
       "categories": [
-         "226",
+        
        "153",
         "155"
          
