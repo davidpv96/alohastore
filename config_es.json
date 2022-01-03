@@ -17,11 +17,7 @@
       "showBackGround": true,
       "radius": 2.0,
       "items": [
-           { 
-         
-          "image": "https://i.ibb.co/BKXYFD5/01-APP.png",
-          "padding": 15.0
-        },
+      
         { 
          
           "image": "https://i.ibb.co/stS27BN/PORTADA-APP-1.png",
